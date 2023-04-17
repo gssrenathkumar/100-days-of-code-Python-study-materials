@@ -1,50 +1,33 @@
-<h1>Sret-Angular-Marine-World</h1>
-
-<p>This is a responsive Angular web page with two-way binding and routing. The project has been divided into 5 levels for easy understanding and efficient coding challenges.</p>
-
-<h2>Project Details</h2>
-
-<p>The project was developed using Angular, and the following features were implemented:</p>
-
-<ul>
-  <li>Two-way binding</li>
-  <li>Routing</li>
-  <li>Responsive design</li>
-  <li>Modular architecture</li>
-  <li>Optimized code for efficiency and maintainability</li>
-</ul>
-
-<h2>Project Structure</h2>
-
-<p>The project is divided into the following levels:</p>
-
-<ol>
-  <li>Level 1 - Creating Components</li>
-  <li>Level 2 - Adding Routing and Navigation</li>
-  <li>Level 3 - Building Services</li>
-  <li>Level 4 - Forms and Validations</li>
-  <li>Level 5 - Integrating with Backend API</li>
-</ol>
-
-<h2>Getting Started</h2>
-
-<p>To get started with the project, follow these steps:</p>
-
-<ol>
-  <li>Clone the repository</li>
-  <li>Install dependencies by running `npm install` in the project root directory</li>
-  <li>Run the project using `ng serve`</li>
-  <li>Access the application at `http://localhost:4200/`</li>
-</ol>
-
-<h2>Screenshots</h2>
-
-<p>Below are some screenshots of the project:</p>
-
-<img src="example-image1.png" alt="Screenshot 1">
-<img src="example-image2.png" alt="Screenshot 2">
-<img src="example-image3.png" alt="Screenshot 3">
-
-<h2>Conclusion</h2>
-
-<p>Thank you for checking out my project! If you have any questions or suggestions, feel free to reach out to me.</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>100 Days of Code - Python Study Materials</title>
+  </head>
+  <body>
+    <h1>100 Days of Code - Python Study Materials</h1>
+    <p>This is my study material which I have learned from various resources. It contains various concepts that are useful for you to learn various things in Python.</p>
+    <h2>Topics Covered</h2>
+    <ul>
+      <li>Data Types and Structures</li>
+      <li>Control Structures and Functions</li>
+      <li>Object-Oriented Programming</li>
+      <li>File Handling and Exceptions</li>
+      <li>Modules and Packages</li>
+      <li>Regular Expressions</li>
+      <li>Database Connectivity with Python</li>
+      <li>Web Scraping and APIs</li>
+      <li>GUI Programming with Tkinter</li>
+      <li>Machine Learning with Python</li>
+      <li>Numpy and Pandas Libraries</li>
+    </ul>
+    <h2>Resources Used</h2>
+    <ul>
+      <li>Python documentation at <a href="https://docs.python.org/3/">https://docs.python.org/3/</a></li>
+      <li>Codecademy Python Course at <a href="https://www.codecademy.com/learn/learn-python-3">https://www.codecademy.com/learn/learn-python-3</a></li>
+      <li>Udemy Python Course at <a href="https://www.udemy.com/course/complete-python-bootcamp/">https://www.udemy.com/course/complete-python-bootcamp/</a></li>
+      <li>Python for Everybody Course at <a href="https://www.py4e.com/">https://www.py4e.com/</a></li>
+      <li>DataCamp Python Course at <a href="https://www.datacamp.com/courses/intro-to-python-for-data-science">https://www.datacamp.com/courses/intro-to-python-for-data-science</a></li>
+    </ul>
+  </body>
+</html>
