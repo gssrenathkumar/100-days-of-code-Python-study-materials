@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>100 Days of Code - Python Study Materials</title>
   </head>
   <body>
     <h1>100 Days of Code - Python Study Materials</h1>
